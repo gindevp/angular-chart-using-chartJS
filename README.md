@@ -1,4 +1,5 @@
 # Chart
+npm install chart.js@2.9.4
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
 
